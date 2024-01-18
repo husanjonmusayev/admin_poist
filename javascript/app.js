@@ -103,7 +103,7 @@ document.addEventListener("DOMContentLoaded", function () {
                       <td>${element.price}</td>
                       <td>${element.description}</td>
                       <td>${element.status}</td>
-                      <td>${element.category_id}</td>
+                      <td>${element.status}</td>
                       <td class="isDel"  id="${element.id}"><img src="./img/delete.png" alt="deletIcon" width="20" height="20"></td>
                     </th>                   
          </tbody
